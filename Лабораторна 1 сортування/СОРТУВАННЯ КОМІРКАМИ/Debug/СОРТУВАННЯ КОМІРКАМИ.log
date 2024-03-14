@@ -1,0 +1,7 @@
+﻿  Source.cpp
+D:\Алгоритми\СОРТУВАННЯ КОМІРКАМИ\Source.cpp(11,25): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Алгоритми\СОРТУВАННЯ КОМІРКАМИ\Source.cpp(20,27): warning C4018: '<': signed/unsigned mismatch
+D:\Алгоритми\СОРТУВАННЯ КОМІРКАМИ\Source.cpp(27,71): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Алгоритми\СОРТУВАННЯ КОМІРКАМИ\Source.cpp(40,49): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Алгоритми\СОРТУВАННЯ КОМІРКАМИ\Source.cpp(53,66): warning C4305: 'initializing': truncation from 'double' to 'float'
+  СОРТУВАННЯ КОМІРКАМИ.vcxproj -> D:\Алгоритми\СОРТУВАННЯ КОМІРКАМИ\Debug\СОРТУВАННЯ КОМІРКАМИ.exe
