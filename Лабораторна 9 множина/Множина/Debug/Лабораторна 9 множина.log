@@ -1,0 +1,9 @@
+﻿  Source.cpp
+D:\Алгоритми\Лабораторна 9 множина\Source.cpp(128,21): warning C4018: '<': signed/unsigned mismatch
+D:\Алгоритми\Лабораторна 9 множина\Source.cpp(127): message : while compiling class template member function 'void Set<int>::show(void)'
+D:\Алгоритми\Лабораторна 9 множина\Source.cpp(155): message : see reference to function template instantiation 'void Set<int>::show(void)' being compiled
+D:\Алгоритми\Лабораторна 9 множина\Source.cpp(141): message : see reference to class template instantiation 'Set<int>' being compiled
+D:\Алгоритми\Лабораторна 9 множина\Source.cpp(69,21): warning C4018: '<': signed/unsigned mismatch
+D:\Алгоритми\Лабораторна 9 множина\Source.cpp(66): message : while compiling class template member function 'Set<int> Set<int>::merge(Set<int>)'
+D:\Алгоритми\Лабораторна 9 множина\Source.cpp(163): message : see reference to function template instantiation 'Set<int> Set<int>::merge(Set<int>)' being compiled
+  Лабораторна 9 множина.vcxproj -> D:\Алгоритми\Лабораторна 9 множина\Debug\Лабораторна 9 множина.exe
