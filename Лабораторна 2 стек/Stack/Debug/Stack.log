@@ -1,0 +1,3 @@
+﻿  Source.cpp
+D:\Алгоритми\Лабораторна 2 стек\Stack\Source.cpp(25,22): warning C4018: '<': signed/unsigned mismatch
+  Stack.vcxproj -> D:\Алгоритми\Лабораторна 2 стек\Stack\Debug\Stack.exe
