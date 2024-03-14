@@ -1,0 +1,3 @@
+﻿  Source.cpp
+D:\Алгоритми\Лабораторна 5 вираз\Вираз\Source.cpp(56,13): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  Лабораторна 5 вираз.vcxproj -> D:\Алгоритми\Лабораторна 5 вираз\Вираз\x64\Debug\Лабораторна 5 вираз.exe

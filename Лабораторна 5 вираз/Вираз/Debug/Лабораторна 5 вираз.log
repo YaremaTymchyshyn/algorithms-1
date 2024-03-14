@@ -1,0 +1,5 @@
+﻿  Source.cpp
+D:\Алгоритми\Лабораторна 5 вираз\Source.cpp(56,13): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+D:\Алгоритми\Лабораторна 5 вираз\Source.cpp(66,20): warning C4018: '<': signed/unsigned mismatch
+D:\Алгоритми\Лабораторна 5 вираз\Source.cpp(110,20): warning C4018: '<': signed/unsigned mismatch
+  Лабораторна 5 вираз.vcxproj -> D:\Алгоритми\Лабораторна 5 вираз\Debug\Лабораторна 5 вираз.exe
